@@ -1,6 +1,6 @@
 # Breakout Room Activity 7.1 | Project Activity 3: Social Coding
 
-## IPv4/IPv6 Address Web Application
+## Group 3: IPv4/IPv6 Address Web Application
 
 ### **Procedure:**
 
