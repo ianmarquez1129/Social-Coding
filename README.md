@@ -15,6 +15,6 @@
 - Request
 
 ### **Procedure:**
-Use the command:
-1.) ** Use the command `pipenv shell` to create a virtual environment **
-2.) ** Use the command `pipenv install` to install all the pre requisite like Flask **
+Use the command: <br>
+1.) **Use the command `pipenv shell` to create a virtual environment** <br>
+2.) **Use the command `pipenv install` to install all the pre requisite like Flask**
