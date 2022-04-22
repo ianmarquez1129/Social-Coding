@@ -1,0 +1,34 @@
+
+.rectangle{
+    
+    position: absolute;
+    left: 15.23%;
+    right: 15.3%;
+    top: 13.54%;
+    bottom: 13.67%;
+    
+    background: url("../image/bg2.jpg");
+    background-repeat: no-repeat;
+    filter: drop-shadow(0px 4px 20px #00214C);
+    border-radius: 50px;
+}
+.rectangle15{
+    position: absolute;
+    left: 15.23%;
+    right: 34.41%;
+    top: 13.54%;
+    bottom: 13.67%;
+    
+    background: url("../image/white.png");
+    border-radius: 50px;
+}
+.bodybg{
+    background: url("../image/background.jpg");
+}
+.square-box{
+    padding: 20px,20px,20px,20px;
+    background-color: white;
+}
+.square-box1{
+    padding: 20px,20px,20px,20px;
+}
