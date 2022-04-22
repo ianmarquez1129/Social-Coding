@@ -17,4 +17,4 @@ def main():
     return render_template("result.html",result=result,location_result=location_result)
 
 if __name__ == "__main__":
-    ipapi.run(host="0.0.0.0", port=8080)
+    ipapi.run(host="0.0.0.0", port=5050)
