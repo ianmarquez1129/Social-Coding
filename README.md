@@ -18,3 +18,8 @@
 Use the command: <br>
 1.) **Use the command `pipenv shell` to create a virtual environment** <br>
 2.) **Use the command `pipenv install` to install all the pre requisite like Flask**
+
+# Breakout Room Activity 9.1 | Project Activity 4: Automated Software Testing and Deployment
+
+## Added features:
+- Geolocation
