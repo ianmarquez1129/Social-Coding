@@ -20,9 +20,9 @@ echo "COPY  social_coding.py /home/myapp/" >> tempdir/Dockerfile
 echo "COPY  tracker.py /home/myapp/" >> tempdir/Dockerfile
 echo "COPY  location.py /home/myapp/" >> tempdir/Dockerfile
 echo "COPY  Pipfile /home/myapp/" >> tempdir/Dockerfile
-echo "RUN pipenv install" >> tempdir/Dockerfile
+echo "RUN python3 -m pipenv install" >> tempdir/Dockerfile
 echo "EXPOSE 5050" >> tempdir/Dockerfile
-echo "CMD python3 /home/myapp/social_coding.py" >> tempdir/Dockerfile
+echo "CMD python3 -m pipenv run python3 /home/myapp/social_coding.py" >> tempdir/Dockerfile
 
 cd tempdir
 
